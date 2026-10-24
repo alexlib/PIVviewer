@@ -3,3 +3,4 @@ Out
 __pycache__
 *.7z
 *.bat
+uv.lock
